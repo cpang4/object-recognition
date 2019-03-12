@@ -1,6 +1,6 @@
 See the notebook at [https://cpang4.github.io/object-recognition](https://cpang4.github.io/object-recognition)   
-• Using pre-trained model with TensorFlow to perform object recognition on images & videos   
-• OpenCV for image & video processing to export .mp4 with labels   
+•	Used trained model with TensorFlow to detect objects in each frame of a video  
+•	OpenCV used to add labels to frames and export to .mp4
 
 *Video Object Recognition.ipynb* is the Jupyter Notebook with my code   
 *frozen_inference_graph.pb* is the model from [TensorFlow Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) -ssd_mobilenet_v1_coco   
